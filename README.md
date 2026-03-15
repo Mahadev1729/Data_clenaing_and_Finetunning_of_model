@@ -158,8 +158,3 @@ The model is evaluated on:
 - Expand dataset with real conversation data
 - Deploy model as API endpoint
 - Add monitoring and logging for production use
-
-## Contact
-
-For questions about this assignment, please refer to the writeups in each part.
-"# Data_clenaing_and_Finetunning_of_model" 
