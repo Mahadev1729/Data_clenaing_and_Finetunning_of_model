@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project simulates a real-world ML engineering task for a conversational AI company building voice agents for EMI collection calls. The assignment demonstrates end-to-end ML pipeline skills including data cleaning, quality analysis, and model finetuning.
+The assignment demonstrates end-to-end ML pipeline skills including data cleaning, quality analysis, and model finetuning.
 
 The project is structured in two parts:
 - **Part A**: Data cleaning and quality analysis of messy conversation data
